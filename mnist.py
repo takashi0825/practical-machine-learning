@@ -11,7 +11,7 @@ import numpy as np
 
 
 # url_base = 'http://www.ssl.te.chiba-u.jp/~okamoto/colab_src/'
-url_base = 'https://github.com/zalandoresearch/fashion-mnist/raw/master/data/fashion/'
+url_base = 'https://github.com/takashi0825/practical-machine-learning/raw/main/''
 # url_base = './'
 key_file = {
     'train_img':'train-images-idx3-ubyte.gz',
